@@ -1,0 +1,19 @@
+# Environnements virtuels et caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sorties LaTeX intermédiaires
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db

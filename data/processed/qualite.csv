@@ -1,0 +1,15 @@
+cmdCode,produit,cellules_observees,cellules_totales,taux_couverture,valeur_totale_usd,retenu_pour_modele
+0801,"Noix de coco, noix du Brésil et noix de cajou",12,90,0.133,31879.995,0
+0802,"Autres fruits à coque (amandes, noisettes, noix)",76,90,0.844,49581176.273,1
+0803,Bananes et plantains,23,90,0.256,164954.521,0
+0804,"Dattes, figues, ananas, avocats, mangues",79,90,0.878,933901740.92,1
+0805,Agrumes (frais ou secs),86,90,0.956,2471761419.7,1
+0806,Raisins frais ou secs,87,90,0.967,136424614.891,1
+0807,"Melons, pastèques et papayes",90,90,1.0,1983373339.968,1
+0808,"Pommes, poires et coings",28,90,0.311,120809.25200000001,0
+0809,"Abricots, cerises, pêches, prunes",59,90,0.656,91959073.822,1
+0810,"Autres fruits frais (fraises, kiwis, grenades)",83,90,0.922,5217233391.524,1
+0811,Fruits congelés,90,90,1.0,1133434968.794,1
+0812,Fruits conservés provisoirement,39,90,0.433,3194132.7199999997,0
+0813,Fruits séchés (autres que 0801-0806),29,90,0.322,5231359.329,0
+0814,Écorces d'agrumes ou de melons,53,90,0.589,5713464.514,1

@@ -1,0 +1,754 @@
+{
+ "donnees": {
+  "lignes_panel": 1260,
+  "lignes_modelisables": 648,
+  "annees": [
+   2010,
+   2024
+  ],
+  "marches": [
+   "Allemagne",
+   "Espagne",
+   "France",
+   "Italie",
+   "Pays-Bas",
+   "Royaume-Uni"
+  ],
+  "produits_retenus": 9,
+  "cellules_observees": 834,
+  "taux_observation": 0.6619047619047619
+ },
+ "series": [
+  {
+   "annee": 2010,
+   "valeur_6_marches_usd": 325632917.0,
+   "poids_6_marches_kg": 336840367.0,
+   "valeur_monde_usd": 575177874.0,
+   "part_6_marches": 0.566143,
+   "prix_moyen_usd_kg": 0.966728
+  },
+  {
+   "annee": 2011,
+   "valeur_6_marches_usd": 448000040.0,
+   "poids_6_marches_kg": 374775257.0,
+   "valeur_monde_usd": 743440424.0,
+   "part_6_marches": 0.602604,
+   "prix_moyen_usd_kg": 1.195383
+  },
+  {
+   "annee": 2012,
+   "valeur_6_marches_usd": 357270181.0,
+   "poids_6_marches_kg": 294565381.0,
+   "valeur_monde_usd": 601504267.0,
+   "part_6_marches": 0.593961,
+   "prix_moyen_usd_kg": 1.212872
+  },
+  {
+   "annee": 2013,
+   "valeur_6_marches_usd": 375009747.0,
+   "poids_6_marches_kg": 282369662.0,
+   "valeur_monde_usd": 690584597.0,
+   "part_6_marches": 0.543032,
+   "prix_moyen_usd_kg": 1.328081
+  },
+  {
+   "annee": 2014,
+   "valeur_6_marches_usd": 415039476.0,
+   "poids_6_marches_kg": 317207600.0,
+   "valeur_monde_usd": 696443171.0,
+   "part_6_marches": 0.595942,
+   "prix_moyen_usd_kg": 1.308416
+  },
+  {
+   "annee": 2015,
+   "valeur_6_marches_usd": 454894405.268,
+   "poids_6_marches_kg": 371439411.75,
+   "valeur_monde_usd": 742714650.102,
+   "part_6_marches": 0.612475,
+   "prix_moyen_usd_kg": 1.22468
+  },
+  {
+   "annee": 2016,
+   "valeur_6_marches_usd": 526895600.0,
+   "poids_6_marches_kg": 445490621.0,
+   "valeur_monde_usd": 742281908.0,
+   "part_6_marches": 0.709832,
+   "prix_moyen_usd_kg": 1.182731
+  },
+  {
+   "annee": 2017,
+   "valeur_6_marches_usd": 672015043.644,
+   "poids_6_marches_kg": 554049185.4,
+   "valeur_monde_usd": 928026596.229,
+   "part_6_marches": 0.724133,
+   "prix_moyen_usd_kg": 1.212916
+  },
+  {
+   "annee": 2018,
+   "valeur_6_marches_usd": 843990117.204,
+   "poids_6_marches_kg": 549816483.52,
+   "valeur_monde_usd": 1191620215.393,
+   "part_6_marches": 0.708271,
+   "prix_moyen_usd_kg": 1.53504
+  },
+  {
+   "annee": 2019,
+   "valeur_6_marches_usd": 930492255.435,
+   "poids_6_marches_kg": 575463316.65,
+   "valeur_monde_usd": 1359266993.493,
+   "part_6_marches": 0.684554,
+   "prix_moyen_usd_kg": 1.616945
+  },
+  {
+   "annee": 2020,
+   "valeur_6_marches_usd": 1094986882.441,
+   "poids_6_marches_kg": 669592594.77,
+   "valeur_monde_usd": 1528262185.604,
+   "part_6_marches": 0.716492,
+   "prix_moyen_usd_kg": 1.635303
+  },
+  {
+   "annee": 2021,
+   "valeur_6_marches_usd": 1285397839.37,
+   "poids_6_marches_kg": 676808191.341,
+   "valeur_monde_usd": 1764254384.63,
+   "part_6_marches": 0.728579,
+   "prix_moyen_usd_kg": 1.899205
+  },
+  {
+   "annee": 2022,
+   "valeur_6_marches_usd": 1375729876.493,
+   "poids_6_marches_kg": 760347041.61,
+   "valeur_monde_usd": 1873848057.762,
+   "part_6_marches": 0.734174,
+   "prix_moyen_usd_kg": 1.809345
+  },
+  {
+   "annee": 2023,
+   "valeur_6_marches_usd": 1319171265.661,
+   "poids_6_marches_kg": 634779116.45,
+   "valeur_monde_usd": 1777694271.985,
+   "part_6_marches": 0.742069,
+   "prix_moyen_usd_kg": 2.078158
+  },
+  {
+   "annee": 2024,
+   "valeur_6_marches_usd": 1607600679.707,
+   "poids_6_marches_kg": 585017586.71,
+   "valeur_monde_usd": 2127050239.907,
+   "part_6_marches": 0.755789,
+   "prix_moyen_usd_kg": 2.747953
+  }
+ ],
+ "qualite": [
+  {
+   "cmdCode": "0801",
+   "produit": "Noix de coco, noix du Brésil et noix de cajou",
+   "cellules_observees": 12,
+   "cellules_totales": 90,
+   "taux_couverture": 0.133,
+   "valeur_totale_usd": 31879.995,
+   "retenu_pour_modele": 0
+  },
+  {
+   "cmdCode": "0802",
+   "produit": "Autres fruits à coque (amandes, noisettes, noix)",
+   "cellules_observees": 76,
+   "cellules_totales": 90,
+   "taux_couverture": 0.844,
+   "valeur_totale_usd": 49581176.273,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0803",
+   "produit": "Bananes et plantains",
+   "cellules_observees": 23,
+   "cellules_totales": 90,
+   "taux_couverture": 0.256,
+   "valeur_totale_usd": 164954.521,
+   "retenu_pour_modele": 0
+  },
+  {
+   "cmdCode": "0804",
+   "produit": "Dattes, figues, ananas, avocats, mangues",
+   "cellules_observees": 79,
+   "cellules_totales": 90,
+   "taux_couverture": 0.878,
+   "valeur_totale_usd": 933901740.92,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0805",
+   "produit": "Agrumes (frais ou secs)",
+   "cellules_observees": 86,
+   "cellules_totales": 90,
+   "taux_couverture": 0.956,
+   "valeur_totale_usd": 2471761419.7,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0806",
+   "produit": "Raisins frais ou secs",
+   "cellules_observees": 87,
+   "cellules_totales": 90,
+   "taux_couverture": 0.967,
+   "valeur_totale_usd": 136424614.891,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0807",
+   "produit": "Melons, pastèques et papayes",
+   "cellules_observees": 90,
+   "cellules_totales": 90,
+   "taux_couverture": 1.0,
+   "valeur_totale_usd": 1983373339.968,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0808",
+   "produit": "Pommes, poires et coings",
+   "cellules_observees": 28,
+   "cellules_totales": 90,
+   "taux_couverture": 0.311,
+   "valeur_totale_usd": 120809.252,
+   "retenu_pour_modele": 0
+  },
+  {
+   "cmdCode": "0809",
+   "produit": "Abricots, cerises, pêches, prunes",
+   "cellules_observees": 59,
+   "cellules_totales": 90,
+   "taux_couverture": 0.656,
+   "valeur_totale_usd": 91959073.822,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0810",
+   "produit": "Autres fruits frais (fraises, kiwis, grenades)",
+   "cellules_observees": 83,
+   "cellules_totales": 90,
+   "taux_couverture": 0.922,
+   "valeur_totale_usd": 5217233391.524,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0811",
+   "produit": "Fruits congelés",
+   "cellules_observees": 90,
+   "cellules_totales": 90,
+   "taux_couverture": 1.0,
+   "valeur_totale_usd": 1133434968.794,
+   "retenu_pour_modele": 1
+  },
+  {
+   "cmdCode": "0812",
+   "produit": "Fruits conservés provisoirement",
+   "cellules_observees": 39,
+   "cellules_totales": 90,
+   "taux_couverture": 0.433,
+   "valeur_totale_usd": 3194132.72,
+   "retenu_pour_modele": 0
+  },
+  {
+   "cmdCode": "0813",
+   "produit": "Fruits séchés (autres que 0801-0806)",
+   "cellules_observees": 29,
+   "cellules_totales": 90,
+   "taux_couverture": 0.322,
+   "valeur_totale_usd": 5231359.329,
+   "retenu_pour_modele": 0
+  },
+  {
+   "cmdCode": "0814",
+   "produit": "Écorces d'agrumes ou de melons",
+   "cellules_observees": 53,
+   "cellules_totales": 90,
+   "taux_couverture": 0.589,
+   "valeur_totale_usd": 5713464.514,
+   "retenu_pour_modele": 1
+  }
+ ],
+ "grille": [
+  {
+   "modele": "ForetAleatoire",
+   "hyperparametres": "feuille=15, max_features=0.5",
+   "WAPE_CV": 0.313904
+  },
+  {
+   "modele": "GradientBoosting",
+   "hyperparametres": "lr=0.02, iter=200",
+   "WAPE_CV": 0.313928
+  },
+  {
+   "modele": "ForetAleatoire",
+   "hyperparametres": "feuille=8, max_features=0.5",
+   "WAPE_CV": 0.313999
+  },
+  {
+   "modele": "ForetAleatoire",
+   "hyperparametres": "feuille=15, max_features=1.0",
+   "WAPE_CV": 0.314548
+  },
+  {
+   "modele": "ForetAleatoire",
+   "hyperparametres": "feuille=8, max_features=1.0",
+   "WAPE_CV": 0.315162
+  },
+  {
+   "modele": "ForetAleatoire",
+   "hyperparametres": "feuille=3, max_features=0.5",
+   "WAPE_CV": 0.318392
+  },
+  {
+   "modele": "ForetAleatoire",
+   "hyperparametres": "feuille=3, max_features=1.0",
+   "WAPE_CV": 0.322925
+  },
+  {
+   "modele": "GradientBoosting",
+   "hyperparametres": "lr=0.05, iter=200",
+   "WAPE_CV": 0.343049
+  },
+  {
+   "modele": "GradientBoosting",
+   "hyperparametres": "lr=0.1, iter=200",
+   "WAPE_CV": 0.353089
+  },
+  {
+   "modele": "GradientBoosting",
+   "hyperparametres": "lr=0.05, iter=500",
+   "WAPE_CV": 0.361572
+  },
+  {
+   "modele": "GradientBoosting",
+   "hyperparametres": "lr=0.02, iter=500",
+   "WAPE_CV": 0.364322
+  },
+  {
+   "modele": "GradientBoosting",
+   "hyperparametres": "lr=0.1, iter=500",
+   "WAPE_CV": 0.374326
+  },
+  {
+   "modele": "Ridge",
+   "hyperparametres": "alpha=100",
+   "WAPE_CV": 0.38054
+  },
+  {
+   "modele": "Ridge",
+   "hyperparametres": "alpha=30",
+   "WAPE_CV": 0.580805
+  },
+  {
+   "modele": "Ridge",
+   "hyperparametres": "alpha=1",
+   "WAPE_CV": 0.788469
+  },
+  {
+   "modele": "Ridge",
+   "hyperparametres": "alpha=10",
+   "WAPE_CV": 0.808507
+  }
+ ],
+ "cv_persistance": [
+  {
+   "modele": "Persistance",
+   "fenetre": "2016->2017",
+   "MAE_M": 4.622955,
+   "RMSE_M": 9.880001,
+   "WAPE": 0.295835
+  },
+  {
+   "modele": "Persistance",
+   "fenetre": "2017->2018",
+   "MAE_M": 4.602822,
+   "RMSE_M": 15.922285,
+   "WAPE": 0.267178
+  },
+  {
+   "modele": "Persistance",
+   "fenetre": "2018->2019",
+   "MAE_M": 7.255451,
+   "RMSE_M": 19.20323,
+   "WAPE": 0.357892
+  },
+  {
+   "modele": "Persistance",
+   "fenetre": "2019->2020",
+   "MAE_M": 7.159859,
+   "RMSE_M": 16.083191,
+   "WAPE": 0.30163
+  },
+  {
+   "modele": "Persistance",
+   "fenetre": "2020->2021",
+   "MAE_M": 9.306887,
+   "RMSE_M": 22.421944,
+   "WAPE": 0.365709
+  },
+  {
+   "modele": "Persistance",
+   "fenetre": "2021->2022",
+   "MAE_M": 4.710122,
+   "RMSE_M": 9.047164,
+   "WAPE": 0.192976
+  }
+ ],
+ "comparaison_test": {
+  "Persistance": {
+   "MAE_M": 7.108,
+   "RMSE_M": 17.186,
+   "WAPE": 0.262,
+   "WAPE_CV": 0.297,
+   "MASE_vs_persistance": 1.0
+  },
+  "Ridge": {
+   "MAE_M": 10.705,
+   "RMSE_M": 29.527,
+   "WAPE": 0.395,
+   "WAPE_CV": 0.381,
+   "MASE_vs_persistance": 1.506
+  },
+  "ForetAleatoire": {
+   "MAE_M": 6.898,
+   "RMSE_M": 16.372,
+   "WAPE": 0.255,
+   "WAPE_CV": 0.314,
+   "MASE_vs_persistance": 0.971
+  },
+  "GradientBoosting": {
+   "MAE_M": 7.996,
+   "RMSE_M": 18.056,
+   "WAPE": 0.295,
+   "WAPE_CV": 0.314,
+   "MASE_vs_persistance": 1.125
+  }
+ },
+ "importance": [
+  {
+   "variable": "log_v_lag1",
+   "importance": 0.054093,
+   "ecart_type": 0.019516
+  },
+  {
+   "variable": "moy3",
+   "importance": 0.039691,
+   "ecart_type": 0.020487
+  },
+  {
+   "variable": "part",
+   "importance": 0.031012,
+   "ecart_type": 0.044944
+  },
+  {
+   "variable": "log_v",
+   "importance": 0.008876,
+   "ecart_type": 0.043705
+  },
+  {
+   "variable": "log_v_lag2",
+   "importance": -0.00016,
+   "ecart_type": 0.022046
+  },
+  {
+   "variable": "croissance_monde",
+   "importance": -0.001293,
+   "ecart_type": 0.00574
+  },
+  {
+   "variable": "cmdCode",
+   "importance": -0.001362,
+   "ecart_type": 0.004699
+  },
+  {
+   "variable": "partnerLibelle",
+   "importance": -0.001472,
+   "ecart_type": 0.001369
+  },
+  {
+   "variable": "log_monde",
+   "importance": -0.004873,
+   "ecart_type": 0.013033
+  },
+  {
+   "variable": "croissance",
+   "importance": -0.009656,
+   "ecart_type": 0.022287
+  }
+ ],
+ "sensibilite": [
+  {
+   "scenario": "Protocole principal",
+   "modele": "Persistance",
+   "MAE_M": 7.108,
+   "RMSE_M": 17.186,
+   "WAPE": 0.262
+  },
+  {
+   "scenario": "Protocole principal",
+   "modele": "ForetAleatoire",
+   "MAE_M": 6.898,
+   "RMSE_M": 16.372,
+   "WAPE": 0.255
+  },
+  {
+   "scenario": "S1 - zéros imputés exclus de l'entraînement",
+   "modele": "ForetAleatoire",
+   "MAE_M": 6.858,
+   "RMSE_M": 16.516,
+   "WAPE": 0.253
+  },
+  {
+   "scenario": "S2 - test élargi 2020-2024",
+   "modele": "Persistance",
+   "MAE_M": 7.671,
+   "RMSE_M": 18.386,
+   "WAPE": 0.297
+  },
+  {
+   "scenario": "S2 - test élargi 2020-2024",
+   "modele": "ForetAleatoire",
+   "MAE_M": 7.947,
+   "RMSE_M": 19.753,
+   "WAPE": 0.308
+  },
+  {
+   "scenario": "S3 - hors produit 0810",
+   "modele": "Persistance",
+   "MAE_M": 3.916,
+   "RMSE_M": 8.831,
+   "WAPE": 0.298
+  },
+  {
+   "scenario": "S3 - hors produit 0810",
+   "modele": "ForetAleatoire",
+   "MAE_M": 3.786,
+   "RMSE_M": 8.685,
+   "WAPE": 0.288
+  }
+ ],
+ "projection_2025": [
+  {
+   "index": 0,
+   "partnerLibelle": "Espagne",
+   "valeur_2024_M": 415.42,
+   "prevision_2025_M": 471.54,
+   "borne_basse_M": 361.14,
+   "borne_haute_M": 625.71,
+   "variation_%": 13.5
+  },
+  {
+   "index": 1,
+   "partnerLibelle": "Royaume-Uni",
+   "valeur_2024_M": 390.87,
+   "prevision_2025_M": 414.02,
+   "borne_basse_M": 292.09,
+   "borne_haute_M": 555.0,
+   "variation_%": 5.9
+  },
+  {
+   "index": 2,
+   "partnerLibelle": "Pays-Bas",
+   "valeur_2024_M": 322.63,
+   "prevision_2025_M": 362.84,
+   "borne_basse_M": 313.62,
+   "borne_haute_M": 489.25,
+   "variation_%": 12.5
+  },
+  {
+   "index": 3,
+   "partnerLibelle": "France",
+   "valeur_2024_M": 313.32,
+   "prevision_2025_M": 345.17,
+   "borne_basse_M": 292.32,
+   "borne_haute_M": 375.22,
+   "variation_%": 10.2
+  },
+  {
+   "index": 4,
+   "partnerLibelle": "Allemagne",
+   "valeur_2024_M": 149.04,
+   "prevision_2025_M": 163.1,
+   "borne_basse_M": 131.53,
+   "borne_haute_M": 231.03,
+   "variation_%": 9.4
+  },
+  {
+   "index": 5,
+   "partnerLibelle": "Italie",
+   "valeur_2024_M": 15.89,
+   "prevision_2025_M": 14.61,
+   "borne_basse_M": 10.79,
+   "borne_haute_M": 24.06,
+   "variation_%": -8.1
+  },
+  {
+   "index": 6,
+   "partnerLibelle": "TOTAL",
+   "valeur_2024_M": 1607.18,
+   "prevision_2025_M": 1771.29,
+   "borne_basse_M": 1607.84,
+   "borne_haute_M": 1977.38,
+   "variation_%": 10.2
+  }
+ ],
+ "hyperparametres": {
+  "Ridge": {
+   "alpha": 100
+  },
+  "ForetAleatoire": {
+   "n_estimators": 600,
+   "min_samples_leaf": 15,
+   "max_features": 0.5
+  },
+  "GradientBoosting": {
+   "learning_rate": 0.02,
+   "max_iter": 200,
+   "min_samples_leaf": 10,
+   "l2_regularization": 1.0
+  }
+ },
+ "erreurs_produit": [
+  {
+   "cmdCode": "0810",
+   "n": 12.0,
+   "valeur_moyenne_M": 138.696637,
+   "WAPE_persistance": 0.235326,
+   "WAPE_foret": 0.213552
+  },
+  {
+   "cmdCode": "0807",
+   "n": 12.0,
+   "valeur_moyenne_M": 32.728833,
+   "WAPE_persistance": 0.282467,
+   "WAPE_foret": 0.31603
+  },
+  {
+   "cmdCode": "0804",
+   "n": 12.0,
+   "valeur_moyenne_M": 31.650507,
+   "WAPE_persistance": 0.287049,
+   "WAPE_foret": 0.242955
+  },
+  {
+   "cmdCode": "0805",
+   "n": 12.0,
+   "valeur_moyenne_M": 26.39104,
+   "WAPE_persistance": 0.127794,
+   "WAPE_foret": 0.17666
+  },
+  {
+   "cmdCode": "0811",
+   "n": 12.0,
+   "valeur_moyenne_M": 12.214623,
+   "WAPE_persistance": 0.726912,
+   "WAPE_foret": 0.72426
+  },
+  {
+   "cmdCode": "0806",
+   "n": 12.0,
+   "valeur_moyenne_M": 1.098929,
+   "WAPE_persistance": 0.284351,
+   "WAPE_foret": 0.389617
+  },
+  {
+   "cmdCode": "0809",
+   "n": 12.0,
+   "valeur_moyenne_M": 0.745031,
+   "WAPE_persistance": 0.249907,
+   "WAPE_foret": 0.346765
+  },
+  {
+   "cmdCode": "0802",
+   "n": 12.0,
+   "valeur_moyenne_M": 0.166541,
+   "WAPE_persistance": 1.162301,
+   "WAPE_foret": 1.135148
+  },
+  {
+   "cmdCode": "0814",
+   "n": 12.0,
+   "valeur_moyenne_M": 0.074489,
+   "WAPE_persistance": 0.770266,
+   "WAPE_foret": 0.638412
+  }
+ ],
+ "erreurs_marche": [
+  {
+   "partnerLibelle": "France",
+   "n": 18.0,
+   "WAPE_persistance": 0.182468,
+   "WAPE_foret": 0.198886
+  },
+  {
+   "partnerLibelle": "Royaume-Uni",
+   "n": 18.0,
+   "WAPE_persistance": 0.2439,
+   "WAPE_foret": 0.230232
+  },
+  {
+   "partnerLibelle": "Espagne",
+   "n": 18.0,
+   "WAPE_persistance": 0.266879,
+   "WAPE_foret": 0.233272
+  },
+  {
+   "partnerLibelle": "Pays-Bas",
+   "n": 18.0,
+   "WAPE_persistance": 0.273471,
+   "WAPE_foret": 0.238092
+  },
+  {
+   "partnerLibelle": "Allemagne",
+   "n": 18.0,
+   "WAPE_persistance": 0.42621,
+   "WAPE_foret": 0.47788
+  },
+  {
+   "partnerLibelle": "Italie",
+   "n": 18.0,
+   "WAPE_persistance": 0.649617,
+   "WAPE_foret": 0.935335
+  }
+ ],
+ "prix_agrumes": {
+  "2010": 0.7306802862163722,
+  "2011": 0.9349009539740367,
+  "2012": 0.923335964296395,
+  "2013": 1.0703704307433781,
+  "2014": 0.9866298350310415,
+  "2015": 0.859466355195951,
+  "2016": 0.8091480426682077,
+  "2017": 0.7126887317587951,
+  "2018": 0.8259865255551974,
+  "2019": 0.7354152353582074,
+  "2020": 1.0058316419570954,
+  "2021": 0.8873387808471053,
+  "2022": 0.9790485227123561,
+  "2023": 1.1129954336682057,
+  "2024": 1.0609638467437574
+ },
+ "hhi": {
+  "2010": 6388.397134892294,
+  "2011": 5275.699699674888,
+  "2012": 5138.4977564457395,
+  "2013": 4497.314771841245,
+  "2014": 4734.7757984133,
+  "2015": 4979.940251156287,
+  "2016": 5931.058738682236,
+  "2017": 5291.244354904455,
+  "2018": 3790.971851563669,
+  "2019": 4988.758819205627,
+  "2020": 4931.333062835064,
+  "2021": 3795.6937957212435,
+  "2022": 3589.651251647617,
+  "2023": 4973.689880842927,
+  "2024": 5041.538682399368
+ },
+ "versions": {
+  "python": "3.14.8",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "scikit_learn": "1.9.1"
+ }
+}
